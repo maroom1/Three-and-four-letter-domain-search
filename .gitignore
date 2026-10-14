@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+domains_*.csv
+checked_*.csv
+tasks/
+results.csv
