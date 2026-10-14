@@ -153,3 +153,8 @@ Generated data (`domains_*.csv`, `checked_*.csv`, `tasks/`, logs) is not stored 
 ## Responsible use
 
 Use public registry services politely. Keep the delays and backoff as they are, and don't use this tool to collect registration data in bulk. Verisign's WHOIS terms forbid high-volume automated queries for marketing or for sending unsolicited messages.
+
+---
+
+<h2 align="center">🚀 Start IT. 🚀</h2>
+<p align="center"><i>Every great project starts with a name. Go find yours.</i></p>
