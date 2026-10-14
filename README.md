@@ -156,5 +156,5 @@ Use public registry services politely. Keep the delays and backoff as they are, 
 
 ---
 
-<h2 align="center">🚀 Start IT. 🚀</h2>
-<p align="center"><i>Every great project starts with a name. Go find yours.</i></p>
+<h2 align="center">⭐ Star IT. ⭐</h2>
+<p align="center"><i>If this saved you some time, give the repo a star!</i></p>
